@@ -1,0 +1,11 @@
+-Buka browser lalu jalankan dengan menuliskan 		|
+ localhost/skripsi				|
+							|
+Akun Admin				Akun Dosen	|
+user: admin				user: 103	|
+pass: admin				pass: 12345	|
+							|
+Akun Dosen Kapro			Akun Mahasiswa	|
+user: 100				user: 12345	|
+pass: 12345				pass: 12345	|
+========================================================|
