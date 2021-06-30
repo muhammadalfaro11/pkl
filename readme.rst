@@ -61,23 +61,6 @@ Desain		: Bootstrap	http://getbootstrap.com
 Jquery		: https://jquery.com/
 Icon		: https://www.freepik.com/free-photos-vectors/school" School vector created by Freepik
 
-************
-Lisensi
-************
-
-/**
- * Sistem Proses Skripsi Online
- * @author     Devi Adi Nufriana | https://facebook.com/mysilkyheart
- * @copyright  (c) 2018
- * @email      deanheart09@gmail.com
- *
- * PERINGATAN :
- * 1. TIDAK DIPERKENANKAN MEMPERJUALBELIKAN APLIKASI INI TANPA SEIZIN DARI PIHAK PENGEMBANG APLIKASI.
- * 2. TIDAK DIPERKENANKAN MENGHAPUS KODE SUMBER APLIKASI.
- * 3. TIDAK MENYERTAKAN LINK KOMERSIL (JASA LAYANAN HOSTING DAN DOMAIN) YANG MENGUNTUNGKAN SEPIHAK.
- * 4. JIKA MENEMUKAN BUG MOHON UNTUK MENGIRIM PESAN KE EMAIL. DAN SCREENSHOT BUG.
- */
-
 ***************
 Acknowledgement
 ***************
